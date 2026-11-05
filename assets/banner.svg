@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Luis Miguel IP — Desarrollo Full Stack y Administración de Sistemas</title>
+<desc id="desc">Cabecera en negro, antracita y azul.</desc>
+<defs><linearGradient id="bg"><stop stop-color="#08090c"/><stop offset="1" stop-color="#20242b"/></linearGradient></defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<path d="M870 0v300M970 0v300M1070 0v300M800 70h400M800 170h400M800 270h400" stroke="#303c50" opacity=".6"/>
+<rect x="62" y="63" width="50" height="5" fill="#70b6ff"/>
+<text x="60" y="140" fill="#f0f4fa" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="700">Luis Miguel <tspan fill="#70b6ff">IP.</tspan></text>
+<text x="63" y="191" fill="#b0bbcc" font-family="Segoe UI,Arial,sans-serif" font-size="24">Desarrollo Full Stack · Administración de Sistemas</text>
+<text x="63" y="239" fill="#70b6ff" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="2">WEB / APLICACIONES / INFRAESTRUCTURA IT</text>
+</svg>
