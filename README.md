@@ -25,6 +25,7 @@ Desarrollo proyectos propios y soluciones para empresas: páginas web, plataform
 | **Bekio & Velite** | Web completa para un bufete de abogados. Actualmente presenta una versión reducida mientras se actualizan contenidos. | [Visitar web](https://www.bekiovelite.com/) |
 | **CRM para atención técnica por WhatsApp** | CRM personalizado para organizar e integrar contenidos y trabajos de atención técnica en un call center. | Sin acceso público |
 | **Gestión de licencias de uso** | Herramienta propia para gestionar licencias de desarrollos web. Documentación funcional y demostración pendientes. | Sin demostración pública |
+| **Lara de Lillo** | Diseño y desarrollo de la web de un centro de estética. | [Visitar web](https://laradelillo.es/) |
 
 ## Áreas de trabajo
 
